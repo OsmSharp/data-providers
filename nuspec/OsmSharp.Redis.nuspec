@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="Output\Release\Any CPU\OsmSharp.Data.Redis.dll" target="lib\net40\OsmSharp.Data.Redis.dll" />
-    <file src="Output\Release\Any CPU\OsmSharp.Data.Redis.dll" target="lib\net45\OsmSharp.Data.Redis.dll" />
+    <file src="Output\OsmSharp.Data.Redis.dll" target="lib\net40\OsmSharp.Data.Redis.dll" />
+    <file src="Output\OsmSharp.Data.Redis.dll" target="lib\net45\OsmSharp.Data.Redis.dll" />
   </files>
 </package>

@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="Output\Release\Any CPU\OsmSharp.Data.SQLServer.dll" target="lib\net40\OsmSharp.Data.SQLServer.dll" />
-    <file src="Output\Release\Any CPU\OsmSharp.Data.SQLServer.dll" target="lib\net45\OsmSharp.Data.SQLServer.dll" />
+    <file src="Output\OsmSharp.Data.SQLServer.dll" target="lib\net40\OsmSharp.Data.SQLServer.dll" />
+    <file src="Output\OsmSharp.Data.SQLServer.dll" target="lib\net45\OsmSharp.Data.SQLServer.dll" />
   </files>
 </package>

@@ -19,7 +19,7 @@
         </dependencies>
     </metadata>
     <files>
-        <file src="Output\Release\Any CPU\OsmSharp.Data.Oracle.dll" target="lib\net40\OsmSharp.Data.Oracle.dll" />
-        <file src="Output\Release\Any CPU\OsmSharp.Data.Oracle.dll" target="lib\net45\OsmSharp.Data.Oracle.dll" />
+        <file src="Output\OsmSharp.Data.Oracle.dll" target="lib\net40\OsmSharp.Data.Oracle.dll" />
+        <file src="Output\OsmSharp.Data.Oracle.dll" target="lib\net45\OsmSharp.Data.Oracle.dll" />
     </files>
 </package>

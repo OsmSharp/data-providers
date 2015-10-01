@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="Output\Release\Any CPU\OsmSharp.Data.SQLite.dll" target="lib\net40\OsmSharp.Data.SQLite.dll" />
-    <file src="Output\Release\Any CPU\OsmSharp.Data.SQLite.dll" target="lib\net45\OsmSharp.Data.SQLite.dll" />
+    <file src="Output\OsmSharp.Data.SQLite.dll" target="lib\net40\OsmSharp.Data.SQLite.dll" />
+    <file src="Output\OsmSharp.Data.SQLite.dll" target="lib\net45\OsmSharp.Data.SQLite.dll" />
   </files>
 </package>
