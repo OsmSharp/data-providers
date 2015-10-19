@@ -438,7 +438,7 @@ namespace OsmSharp.Data.Redis.Osm
 
             if (filter != null)
             {
-                List<OsmGeo> filtered = new List<OsmGeo>();
+                var filtered = new List<OsmGeo>();
                 foreach (OsmGeo geo in res)
                 {
                     if (filter.Evaluate(geo))
@@ -446,6 +446,7 @@ namespace OsmSharp.Data.Redis.Osm
                         filtered.Add(geo);
                     }
                 }
+                return filtered;
             }
 
             return res;
