@@ -168,12 +168,12 @@
     <Reference Include="Npgsql">
       <HintPath>..\packages\Npgsql.2.0.12.1\lib\net40\Npgsql.dll</HintPath>
     </Reference>
-    <Reference Include="OsmSharp, Version=0.0.0.44, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\OsmSharp.Core.0.0.0.44-beta\lib\net40\OsmSharp.dll</HintPath>
+    <Reference Include="OsmSharp, Version=1.0.2.109, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\OsmSharp.Core.1.0.2\lib\net40\OsmSharp.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="OsmSharp.Osm, Version=0.0.0.44, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\OsmSharp.Core.0.0.0.44-beta\lib\net40\OsmSharp.Osm.dll</HintPath>
+    <Reference Include="OsmSharp.Osm, Version=1.0.2.109, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\OsmSharp.Core.1.0.2\lib\net40\OsmSharp.Osm.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="policy.2.0.Npgsql">
